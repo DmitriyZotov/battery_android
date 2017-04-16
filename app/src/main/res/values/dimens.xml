@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shape_vertical_padding">150dp</dimen>
+
+    <dimen name="shape_top_ver_padding">150dp</dimen>
+    <dimen name="shape_bottom_ver_padding">150dp</dimen>
+    <dimen name="shape_right_ver_padding">150dp</dimen>
+    <dimen name="shape_left_ver_padding">150dp</dimen>
+
+    <dimen name="shape_top_hor_padding">50dp</dimen>
+    <dimen name="shape_bottom_hor_padding">50dp</dimen>
+    <dimen name="shape_right_hor_padding">250dp</dimen>
+    <dimen name="shape_left_hor_padding">250dp</dimen>
+
+    <dimen name="corners_radius">10dp</dimen>
+    <dimen name="stroke_size">5dp</dimen>
+</resources>

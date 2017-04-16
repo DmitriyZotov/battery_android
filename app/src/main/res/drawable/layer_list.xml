@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <clip
+            android:drawable="@drawable/shape_battery"
+            android:clipOrientation="vertical"
+            android:gravity="bottom">
+        </clip>
+    </item>
+    <item
+        android:drawable="@drawable/shape_stroke">
+    </item>
+    <item android:drawable="@drawable/ic_flash" android:gravity="center" />
+</layer-list>

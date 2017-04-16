@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hfad.battery.MainActivity">
+
+    <View
+        android:id="@+id/battery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_marginLeft="@dimen/shape_left_hor_padding"
+        android:layout_marginRight="@dimen/shape_right_hor_padding"
+        android:layout_marginTop="@dimen/shape_top_hor_padding"
+        android:layout_marginBottom="@dimen/shape_bottom_hor_padding"
+
+        android:background="@drawable/layer_list"
+        >
+    </View>
+</RelativeLayout>
